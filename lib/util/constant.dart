@@ -1,5 +1,5 @@
 
-const String profile = "https://instagram.fpnh11-1.fna.fbcdn.net/v/t51.2885-19/s320x320/68684319_401052720532854_5518657891571073024_n.jpg?_nc_ht=instagram.fpnh11-1.fna.fbcdn.net&_nc_ohc=6EW5c0cWvm0AX-vPL2h&tp=1&oh=9d1ffb6249f3bf18b5afbfedd9430308&oe=6019CF02";
+const String profile = "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60";
 const String username = "sathyamony";
 
 const String instagramName = "Sela Monysathya";
